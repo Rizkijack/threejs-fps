@@ -1,0 +1,6 @@
+makefun-keypair*.json
+*.jwk.json
+rizkijack-credentials.json
+out/
+node_modules/
+*.log
